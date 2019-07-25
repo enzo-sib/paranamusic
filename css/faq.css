@@ -1,0 +1,10 @@
+.faq{
+max-width: 60%;
+font-family: "Courier New",Courier,monospace;
+src: url('../fonts/cour.ttf');
+padding-bottom:2vh;}
+@media screen and (max-width: 800px){
+    .faq{
+        max-width: 90%;
+    }
+}

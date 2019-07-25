@@ -1,0 +1,35 @@
+.banner{
+    display: flex;
+    background-image: url("http://partestwebsite.000webhostapp.com/img/artist/chill-boy.jpg");
+    width: auto;
+    justify-content: flex-end;
+}
+.items{
+    display: flex;
+    flex-direction: column;
+    margin : 0;
+    width: auto;
+    height: auto;
+    padding: 25px 30px 0 0;
+}
+.iconos{
+    display: flex;
+    justify-content: center;
+}
+.video{
+    width: 533px;
+    height: 300px;
+}
+.icon-banner{
+    text-decoration: none;
+    color: black;
+    padding: 10px 10px 10px 10px;
+    font-size: 25px;
+}
+.icon-banner:hover{
+    color: #D4AF37;
+}
+.img-hide{
+    display: none;
+    width: auto;
+}

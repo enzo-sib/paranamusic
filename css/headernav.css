@@ -1,0 +1,44 @@
+*{
+    margin: 0 auto;
+}
+.icons-header{
+    display: flex;
+    height: 21px;
+}
+.iconos{
+    text-decoration: none;
+    color: black;
+    margin: 0;
+    padding-left: 1%;
+    padding-top: 5px;
+}
+.iconos:hover{
+    color: #D4AF37;
+}
+header{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding: 15px 0 15px 0;
+}
+.logo{
+    max-width: 79px;
+    padding-bottom: 20px;
+}
+.nav{
+    text-align: center;
+    padding: 1% 0 1% 0;
+    background: #f2f2f2;
+    border-top: 1% solid #eee;
+}
+.textonav{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #303030;
+    font-size: 100%;
+    padding: 1% 1%;
+    font-family: "Courier New",Courier,monospace;
+}
+.textonav:hover{
+    color: #D4AF37;
+}

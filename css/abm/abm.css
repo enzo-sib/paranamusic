@@ -1,0 +1,18 @@
+.contenido{
+    display: flex;
+    flex-direction: row;
+}
+.formulario{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0;
+    width: 15%;
+}
+.logo{
+    display: block;
+    margin:auto;
+    width: 200px;
+    margin-left: 10%;
+    margin-bottom: 10px;
+}

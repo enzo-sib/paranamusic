@@ -1,0 +1,21 @@
+.faq{
+    max-width: 60%;
+    font-family: "Courier New",Courier,monospace;
+    src: url('../fonts/cour.ttf');
+    padding-bottom:2vh;}
+    @media screen and (max-width: 800px){
+        .faq{
+            max-width: 90%;
+        }
+    }
+.division{
+    display: flex;
+}
+.contacto-web{
+    display: flex;
+    flex-direction: row;
+    margin-left: 40px;
+}
+.contacto-d1{
+    width: 250px;
+}

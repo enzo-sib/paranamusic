@@ -1,0 +1,110 @@
+.caja-tienda{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.ropa{
+  height: 750px;
+}
+.imagen-ropa{
+    max-width: 700px;
+}
+.datos{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 400px;
+}
+.titulo{
+    font-size: 15px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.informacion{
+    margin: 0 0 30px 0;
+    font-family: "Courier New",Courier,monospace;
+    font-size: 13px;
+    text-transform: uppercase;
+    max-width: 300px;
+}
+.precio{
+    float: left;
+}
+.not-found{
+  display: flex;
+  text-align: left;
+  flex-direction: column;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  max-width: 450px;
+  margin-top: 13%;
+  margin-bottom: 18%;
+}
+.titulo{
+  font-size: 35px;
+  text-transform: uppercase;
+}
+.subtitulo{
+  margin-left: 15px;
+}
+.not-found a{
+  text-decoration: none;
+}
+.not-found a:hover{
+  color: #D4AF37;
+}
+/* Div Talle */
+ .box select {
+    background-color: #fff;
+    color: black;
+    padding: 12px;
+    width: 150px;
+    border: none;
+    font-size: 13px;
+    box-shadow: 0 5px 25px rgba(0, 0, 0, 0.2);
+    -webkit-appearance: button;
+    appearance: button;
+    outline: none;
+  }
+  
+  .box::before {
+    content: "\f13a";
+    font-family: FontAwesome;
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 20%;
+    height: 100%;
+    text-align: center;
+    font-size: 28px;
+    line-height: 45px;
+    color: rgba(255, 255, 255, 0.5);
+    background-color: rgba(255, 255, 255, 0.1);
+    pointer-events: none;
+  }
+  
+  .box:hover::before {
+    color: rgba(255, 255, 255, 0.6);
+    background-color: rgba(255, 255, 255, 0.2);
+  }
+  
+  .box select option {
+    padding: 30px;
+  }
+
+.botoncarrito{
+    text-transform: uppercase;
+    font-family: "Courier New",Courier,monospace;
+    text-align: center;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: 600;
+    letter-spacing: 3px;
+    border:1.5px solid grey;
+    width: 100%;
+    padding: 5px;
+}
+.botoncarrito:hover{
+    background-color: #D4AF37;
+}
