@@ -24,9 +24,9 @@
     ?>
     <!-- Banner con video -->
     <div class="banner">
-        <img class="img-hide" src="http://partestwebsite.000webhostapp.com/img/artist/xavier2000.jpg">  
+        <img class="img-hide" src="http://paranamusic.com.ar/img/artist/xavier2000.jpg">  
         <div class="items"> 
-            <iframe class="video" src="https://www.youtube.com/embed/AG379iaIgPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe class="video" src="https://www.youtube.com/embed/JYDm1CqMcDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="iconos">
             <a href="https://www.instagram.com/blockstarblockstar/" target="_blank" class="icon-banner"><span class="icon-instagram"></span></a>
                 <a href="https://www.youtube.com/channel/UCg0VaC2mnY3hkHoCWB8siVA" target="_blank" class="icon-banner"><span class="icon-youtube2"></span></a>

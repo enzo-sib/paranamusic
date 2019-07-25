@@ -1,4 +1,5 @@
 <?php
+/*
 $server='localhost';
 $user='id10212209_userbd';
 $pass='jUuoIjAQ12';
@@ -12,5 +13,4 @@ if($conexion->connect_errno){
 	echo 'conectado '.$conexion->host_info;
 }
 */
-
 ?>

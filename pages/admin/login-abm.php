@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div class="contenedor">
-        <img src="http://localhost/parana/img/logo.jpg" class="img">
+        <img src="http://paranamusic.com.ar/img/logo.jpg" class="img">
 	   	<div id="login">
 	   		<form action="#" method="post">
 	   			<label>Usuario :</label><input type="nombre" id="usuario" name="user">

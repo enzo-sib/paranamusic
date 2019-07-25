@@ -24,8 +24,8 @@
     ?>
     <!-- Banner con video -->
     <div class="banner">
-        <img class="img-banner" src="http://partestwebsite.000webhostapp.com/img/artist/mbaach.jpg"> 
-        <img class="img-hide" src="http://partestwebsite.000webhostapp.com/img/artist-mini/mbaach-mini.jpg">   
+        <img class="img-banner" src="http://paranamusic.com.ar/img/artist/mbaach.jpg"> 
+        <img class="img-hide" src="http://paranamusic.com.ar/img/artist-mini/mbaach-mini.jpg">   
     </div>
     <!-- Aca comienza la parte de la tienda -->
     <div class="ropa">

@@ -24,7 +24,7 @@
     ?>
     <!-- Banner con video -->
     <div class="banner">
-        <img class="img-hide" src="http://partestwebsite.000webhostapp.com/artista/chill-boy.php">  
+        <img class="img-hide" src="http://paranamusic.com.ar/artista/chill-boy.php">  
         <div class="items"> 
             <iframe class="video" src="https://www.youtube.com/embed/nmBNa8jM4jI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="iconos">

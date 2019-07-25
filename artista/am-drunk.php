@@ -24,7 +24,7 @@
     ?>
     <!-- Banner con video -->
     <div class="banner">
-        <img class="img-hide" src="http://partestwebsite.000webhostapp.com/artista/am-drunk.jpg">  
+        <img class="img-hide" src="http://paranamusic.com.ar/artista/am-drunk.jpg">  
         <div class="items"> 
             <iframe class="video" src="https://www.youtube.com/embed/AG379iaIgPc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="iconos">

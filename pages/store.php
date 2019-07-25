@@ -31,7 +31,7 @@
                 ?>
                     <div class="not-found">
                         <h2 class="titulo">Pagina no encontrada </h2>
-                        <h2 class="subtitulo">La pagina solicitada no existe. Haga <a href="http://localhost/parana/artista/mbaach.php"> Click aqui </a> para seguir comprando </h2>
+                        <h2 class="subtitulo">La pagina solicitada no existe. Haga <a href="http://paranamusic.com.ar"> Click aqui </a> para seguir comprando </h2>
                     </div>
                 <?php
             }else{
@@ -39,7 +39,7 @@
                     if ($_REQUEST['c']==$registro['id']){
                     ?>
                         <div class="ropa">
-                            <img src="http://partestwebsite.000webhostapp.com/img/clothes/<?php echo $registro['foto'];?>" class="imagen-ropa">
+                            <img src="http://paranamusic.com.ar/img/clothes/<?php echo $registro['foto'];?>" class="imagen-ropa">
                         </div>
                         <div class="datos">
                             <h3 class="titulo"><?php echo $registro['nombre'];?> </h3>

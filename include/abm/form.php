@@ -1,4 +1,4 @@
-    <img src="http://localhost/parana/img/logo.jpg" class="logo">        
+    <img src="http://paranamusic.com.ar/img/logo.jpg" class="logo">        
         <form action="abm.php" method="get" class="formfiltro">
             <?php
             if (isset($_GET['grupo'])) {

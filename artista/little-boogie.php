@@ -24,9 +24,9 @@
     ?>
     <!-- Banner con video -->
     <div class="banner">
-        <img class="img-hide" src="http://partestwebsite.000webhostapp.com/img/artist/boogie.jpg">  
+        <img class="img-hide" src="http://paranamusic.com.ar/img/artist/boogie.jpg">  
         <div class="items"> 
-            <iframe class="video" src="https://www.youtube.com/embed/kPG-Zr1Deo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe class="video" src="https://www.youtube.com/embed/nLEg5XmybP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             <div class="iconos">
                 <a href="https://www.instagram.com/blockstarblockstar/" target="_blank" class="icon-banner"><span class="icon-instagram"></span></a>
                 <a href="https://www.youtube.com/channel/UCg0VaC2mnY3hkHoCWB8siVA" target="_blank" class="icon-banner"><span class="icon-youtube2"></span></a>
